@@ -62,7 +62,7 @@
 | rk3318   | RX3318-Box |
 | h6       | Vplus, Tanix-TX6, TQC-A01 |
 
-## 🤗 项目截图 [![](https://img.shields.io/badge/-项目截图-FFFFFF.svg)](#-项目截图-)
+## 🤗 项目截图 [![](https://img.shields.io/badge/-免责声明-FFFFFF.svg)](#-免责声明-)
 ![screenshots](./files/screenshot/screenshot1.png)
 
 ## 🌟 Star戳一戳，好运加满！😆
