@@ -25,6 +25,8 @@
 # 设置向导 by sirpdboy
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-netwizard"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-netwizard-zh-cn"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-passwall2"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-passwall2-zh-cn"
 
 # ============= 若去除组件 则打开注释 ============================
 # 若去掉istore商店 则打开注释
